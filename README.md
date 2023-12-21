@@ -1,5 +1,7 @@
 # Third Person Character (Unreal Engine)
 
+![Screenshot 2023-12-22 014207](https://github.com/MridulRoy98/TPCharacter_Unreal_Engine/assets/69635889/3ff0f896-1361-404b-89a9-ae6a3bca8448)
+
 # Description
 Embark on an engaging adventure with my creation in Unreal Engine—a Third Person Character that combines seamless movement and exploration. In this Unreal project, I meticulously crafted a character capable of walking and looking around, offering players an immersive experience. Noteworthy features include:
 - Intuitive movement controls for fluid walking
