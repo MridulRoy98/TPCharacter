@@ -31,3 +31,11 @@ Embark on the adventure of the Third Person Character by following these install
 - Allow Unreal Engine to process all assets and scenes.
 
 - Once the import is complete, hit the "Play" button in the Unreal editor to launch the game.
+
+# Credits
+
+[Epic Games (Unreal Engine)](https://www.unrealengine.com/en-US)
+
+[Unreal Engine Documentation](https://docs.unrealengine.com/5.3/en-US/)
+
+[Unreal Engine Community](https://forums.unrealengine.com/categories?tag=unreal-engine)
